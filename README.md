@@ -1,6 +1,6 @@
 # ICPC-Assiut-Sheets
 
-This repository contains **solutions to ICPC Assiut University training sheets**, primarily using the C programming language. It serves as a personal record of problem-solving practice as well as a reference for others preparing for ICPC contests.
+This repository contains **solutions to ICPC Assiut University training sheets**, primarily using the C++ programming language. It serves as a personal record of problem-solving practice as well as a reference for others preparing for ICPC contests.
 
 ## About the Problems
 
